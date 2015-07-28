@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:aws-s3direct',
     summary: 'Meteor package for generating s3 Upload policy and file url for direct upload/view of files',
-    version: '1.1.3',
+    version: '1.1.4',
     git: 'https://github.com/risul/meteor-aws-s3direct'
 });
 
